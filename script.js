@@ -1,6 +1,6 @@
 const ham = document.querySelector('.mobile-menu');
 const navbar = document.querySelector('.nav-menu');
-const x = document.querySelector('.slide-in');
+const x = document.querySelector('.move');
 
 x.addEventListener('click', () => {
   navbar.classList.toggle('active');

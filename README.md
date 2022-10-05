@@ -30,10 +30,10 @@ C:\Users\ROGER\Desktop\NICK\capstone\Capstone\Desktop homepage.png
 ## Getting Started
 
 ##live demo
-https://nowembabazi.github.io/Capstone/
+https://nowembabazi.github.io/The-capstone/
 
 **This is an example of how you may give instructions on setting up your project locally.**
-- To clone to local machine; git clone https://github.com/Nowembabazi/Capstone.git
+- To clone to local machine; git clone https://nowembabazi.github.io/The-capstone/
 
 - run live server
 
