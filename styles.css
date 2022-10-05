@@ -1,0 +1,1099 @@
+body {
+  padding: 0%;
+  margin: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+header {
+  background-image: url(https://c1.wallpaperflare.com/preview/675/259/577/office-desk-chair-white-thumbnail.jpg);
+}
+
+.top-nav .logo {
+  display: none;
+}
+
+.nav-menu {
+  display: block;
+  background-color: #3c3a39;
+  height: 800px;
+  width: 100%;
+  font-family: "Inter", sans-serif;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  left: -200%;
+}
+
+.hr-nav {
+  width: 10rem;
+}
+
+.nav-menu.active {
+  left: 0;
+  transition: 0.5s ease-out;
+}
+
+.nav-links {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  width: 30%;
+}
+
+.nav-links,
+ul li a {
+  list-style: none;
+  color: #f4f4f4;
+  text-decoration: none;
+  font-size: 27px;
+}
+
+.slide-in {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+.nav-top,
+.nav-second {
+  display: none;
+}
+
+.logo {
+  color: #666363;
+  padding-left: 20px;
+  text-decoration: none;
+  margin-top: -20px;
+  margin-right: 20px;
+}
+
+.about-sec {
+  text-decoration: none;
+  color: #d3d3d3;
+}
+
+.program {
+  padding-right: 100px;
+  color: #d3d3d3;
+}
+
+.join {
+  padding-right: 100px;
+  color: #d3d3d3;
+}
+
+.sponsor {
+  padding-right: 100px;
+  color: #d3d3d3;
+}
+
+.news {
+  padding-right: 100px;
+  color: #d3d3d3;
+}
+
+.compaign {
+  color: #d3d3d3;
+}
+
+.about {
+  display: flex;
+  justify-content: end;
+  margin-top: -40px;
+  padding-left: 30px;
+}
+*/ .works {
+  display: grid;
+  background-image: url("https://c1.wallpaperflare.com/preview/675/259/577/office-desk-chair-white-thumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  filter: brightness(100%) contrast(80%);
+  height: 700px;
+  width: 100%;
+}
+
+h3 {
+  font-family: "Cocogoose", sans-serif;
+  font-size: 250%;
+  margin-left: 200px;
+  margin-top: 130px;
+  color: #3b0802;
+}
+
+h1 {
+  font-family: "Cocogoose", sans-serif;
+  font-size: 350%;
+  margin-left: 200px;
+  color: #700f04;
+}
+
+.talk {
+  margin-left: 100px;
+  font-size: larger;
+  font-weight: 900;
+  color: #000;
+}
+
+.date {
+  margin-left: 100px;
+  font-size: 250%;
+  color: #1d1d1f;
+}
+
+.place {
+  margin-left: 100px;
+  font-size: 130%;
+  color: #202022;
+  margin-top: 40px;
+}
+
+.container-1 {
+  background-image: url("https://clauzzen.files.wordpress.com/2011/01/vintage-pattern_black.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 800px;
+  width: 100%;
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #444242;
+  width: auto;
+  height: auto;
+  color: #d3d3d3;
+  padding-top: 10px;
+  padding-bottom: 8px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-left: 40px;
+  margin-right: -45px;
+  margin-bottom: 10px;
+}
+
+.main-program {
+  font-family: "Cocogoose", sans-serif;
+  font-size: 250;
+  color: #d3d3d3;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.menu {
+  display: grid;
+  width: 80%;
+  margin-right: 30px;
+  margin-bottom: 100px;
+}
+
+.join {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 24px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: -4px;
+}
+/* partner section */
+.container-2 {
+  background-color: #cec6c6;
+  display: flex;
+  height: auto;
+  width: 100%;
+}
+
+/* speakers section */
+
+.row-speaker {
+  display: flex;
+  flex-direction: column;
+  background-color: #444242;
+}
+
+.featured {
+  color: #8a1103;
+  display: flex;
+  justify-content: center;
+}
+
+.our-partners {
+  background-color: #444242;
+  display: grid;
+  flex-direction: column;
+  height: 300px;
+  width: 100%;
+  margin-top: -0px;
+}
+
+.camp {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 200px;
+  width: 700px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+.elliot {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 200px;
+  width: 700px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+
+.elliot-1 {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.roger {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 200px;
+  width: 700px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+
+.roger-1 {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.nick {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 200px;
+  width: 700px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+
+.nick-1 {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.racheal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 200px;
+  width: 700px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+.racheal-1 {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.phillip {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 200px;
+  width: 700px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+
+.phillip-1 {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.partners-section {
+  background-color: #3f444f;
+}
+
+.partners-heading {
+  text-align: center;
+  color: #fff;
+  padding-top: 10%;
+}
+
+.partners-flex {
+  width: 90%;
+  margin: auto;
+  margin-top: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.partner-item {
+  width: 100%;
+}
+
+.picture {
+  width: 126px;
+  height: 38px;
+}
+
+footer {
+  background-color: #2c2a2a;
+  width: 100%;
+}
+
+.about-sec {
+  background-image: url("https://raw.githubusercontent.com/tashisrael/Capstone1/main/images/background.png");
+  background-size: 70%;
+}
+
+/*
+      CSS Reset
+  */
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+input,
+button,
+ul,
+li,
+a,
+p {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  font: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+  color: inherit;
+  background: transparent;
+  list-style: none;
+}
+
+/* Global Setting */
+
+@font-face {
+  font-family: Cocogoose;
+  src: url("../assets/fonts/cocogoose/Cocogoose Pro-trial.ttf");
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+h1 {
+  font-size: 10vw;
+  font-family: "Cocogoose", sans-serif;
+}
+
+h2 {
+  font-family: "Cocogoose", sans-serif;
+  font-size: 3vw;
+  font-weight: 100;
+}
+
+h3 {
+  font-size: 5vw;
+}
+
+img {
+  width: 100px;
+}
+
+.tickets-title {
+  font-size: 20px;
+}
+
+a {
+  cursor: pointer;
+}
+
+a:hover {
+  color: #ec5242;
+}
+
+a:active {
+  color: #ec5242;
+}
+
+p {
+  color: #272a31;
+  font-weight: 100;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.cta {
+  font-size: 1.2rem;
+}
+
+.hr-title {
+  border: 1px solid #ec5242;
+  width: 20%;
+}
+
+.hr-speakers {
+  border: 1px solid #3c3e43;
+  width: 10%;
+}
+
+.section-title {
+  font-size: 1.5rem;
+}
+
+.section-subtitle {
+  font-size: 1.6rem;
+  color: #e4200a;
+}
+
+.logo {
+  padding-top: 3px;
+  padding-bottom: 4px;
+}
+
+.year {
+  margin-left: -50px;
+  margin-top: 24px;
+}
+/* slider section */
+
+.nav-small {
+  font-size: 3rem;
+  top: 15%;
+  left: 5%;
+}
+
+.campaign {
+  border: 5px solid #ec5242;
+}
+
+.slider {
+  background: #f8f8f8;
+  background-size: cover;
+}
+
+.slider-about {
+  background: #bbb7b7;
+  background-image: linear-gradient(
+    rgba(248, 248, 248, 0.7),
+    rgb(223, 211, 211)
+  );
+  background-size: cover;
+}
+
+.red {
+  color: #ec5242;
+}
+
+.bg-red {
+  background-color: #ec5242;
+}
+
+.bg-dark-light-custom {
+  background-color: rgba(143, 143, 143, 0.5);
+}
+
+.bg-dark-custom {
+  background-color: #272a31;
+}
+
+/* main-program section */
+.main-program i {
+  font-size: 3rem;
+}
+
+.program-block:hover {
+  border: 2px solid #fff;
+}
+
+/* speakers section */
+
+.speaker-avatar {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.section-speakers-heading {
+  text-align: center;
+}
+
+.featured-speakers {
+  width: 92.5%;
+  margin: auto;
+}
+
+.speaker-section {
+  margin-block: 5%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 1px 1px;
+  margin-right: 30px;
+  gap: 1px;
+}
+
+.speaker-image-section {
+  display: flex;
+  justify-content: center;
+}
+
+.speaker-image {
+  width: 128px;
+  height: 128px;
+}
+
+.speaker-name {
+  margin-left: -8px;
+  font-size: large;
+  margin-block: 0;
+}
+
+.speaker-designation {
+  margin-block: 0;
+  font-size: 0.95rem;
+  color: #ec5242;
+}
+
+#dots {
+  margin: 0;
+}
+
+.speaker-history {
+  font-size: 0.85rem;
+  width: 100%;
+  margin-top: 5%;
+}
+
+.years {
+  display: flex;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+
+/* partner section */
+.partners-section {
+  background-color: #414246;
+  height: 240px;
+}
+
+.partners {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.partners figure {
+  margin: 2rem;
+}
+
+.partners img {
+  filter: contrast(5);
+}
+
+footer {
+  background-color: #f3ecec;
+  width: 100%;
+  height: 150px;
+  margin-top: -10px;
+}
+
+@media screen and (max-width: 767px) {
+  .partners {
+    width: 90%;
+  }
+
+  .header {
+    display: none;
+  }
+
+  .danger {
+    color: #8f1507;
+    margin-left: 12px;
+    margin-left: 12px;
+  }
+
+  .t-danger {
+    color: #e70e0e;
+    margin-left: 12px;
+    margin-left: 12px;
+  }
+
+  .program .section-subtitle {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  .program i {
+    font-size: 2rem;
+  }
+}
+
+/* past section */
+
+.previous div:nth-child(1) {
+  background-image: linear-gradient(
+      rgba(236, 82, 66, 0.5),
+      rgba(236, 82, 66, 0.5)
+    ),
+    url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/30th_Street_Station_concourse_March_2019.jpeg/1024px-30th_Street_Station_concourse_March_2019.jpeg");
+  background-size: cover;
+}
+
+.previous div:nth-child(2) {
+  background-image: linear-gradient(
+      rgba(236, 82, 66, 0.5),
+      rgba(236, 82, 66, 0.5)
+    ),
+    url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lobby_Hotel_Bristol_w_Warszawie.JPG/1280px-Lobby_Hotel_Bristol_w_Warszawie.JPG");
+  background-size: cover;
+}
+
+@media screen and (min-width: 767px) {
+  .nav-menu,
+  .mobile-menu {
+    display: none;
+  }
+
+  .header {
+    display: block;
+  }
+
+  .top-nav {
+    background-color: #343434;
+    padding: 24px;
+  }
+
+  .right-nav {
+    float: right;
+    margin-top: -10px;
+    margin-right: 20px;
+  }
+
+  .right-nav a {
+    padding-right: 10px;
+    text-decoration: none;
+    color: #f4f4f4;
+  }
+
+  .lists a {
+    text-decoration: none;
+    color: #282828;
+    margin-right: 50px;
+    font-size: 1rem;
+  }
+
+  .lists > li > a:hover {
+    color: brown;
+  }
+
+  .lists {
+    list-style: none;
+    margin-top: 20px;
+    display: flex;
+    justify-content: end;
+    width: 100%;
+  }
+
+  .logo {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .front-section {
+    background-image: url(images/first-section.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .nav-top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 50px;
+    background-color: #83868d;
+    padding-bottom: 40px;
+  }
+
+  .top {
+    display: flex;
+    justify-content: end;
+    flex-direction: row;
+    padding-right: 40px;
+  }
+  .nav-link {
+    color: #d3d3d3;
+    font-size: small;
+  }
+
+  .nav-second {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #444242;
+  }
+
+  .logo {
+    color: #686464;
+    padding-left: 20px;
+    text-decoration: none;
+    margin-top: 10px;
+    font-family: "Cocogoose", sans-serif;
+    font-size: 150%;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-left: 32px;
+    margin-bottom: 14px;
+  }
+
+  .works {
+    display: grid;
+    background-image: url("https://c1.wallpaperflare.com/preview/675/259/577/office-desk-chair-white-thumbnail.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+    width: 100%;
+  }
+
+  h3 {
+    font-family: "Cocogoose", sans-serif;
+    font-size: 250%;
+    margin-left: 200px;
+    margin-top: 130px;
+    color: #720f04;
+  }
+
+  h1 {
+    font-family: "Cocogoose", sans-serif;
+    font-size: 350%;
+    margin-left: 200px;
+    color: #660d03;
+  }
+
+  .talk {
+    margin-left: 200px;
+    font-size: larger;
+    font-weight: bolder;
+  }
+
+  .date {
+    margin-left: 200px;
+    font-size: 250%;
+    color: #1d1d1f;
+  }
+
+  .place {
+    margin-left: 200px;
+    font-size: 130%;
+    color: #202022;
+    margin-top: -40px;
+  }
+
+  .years {
+    display: flex;
+    height: auto;
+    color: #161515;
+    margin-left: 40px;
+    margin-top: 40px;
+  }
+  .container-1 {
+    background-image: url("https://clauzzen.files.wordpress.com/2011/01/vintage-pattern_black.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 700px;
+    width: 100%;
+  }
+
+  .rows-1 {
+    display: none;
+    margin-top: 80px;
+  }
+
+  .item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #444242;
+    width: 320px;
+    height: 230px;
+    color: #d3d3d3;
+    padding-left: 30px;
+    margin-left: 60px;
+  }
+
+  .main-program {
+    font-family: "Cocogoose", sans-serif;
+    font-size: 300;
+    color: #d3d3d3;
+    display: flex;
+    justify-content: center;
+    margin-left: -10px;
+  }
+
+  .menu {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+  }
+
+  .speaker-avatar {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /* partner section */
+  .container-2 {
+    background-color: #cec6c6;
+    display: flex;
+    height: auto;
+    width: 100%;
+  }
+
+  .steps p {
+    width: 50%;
+    margin: auto;
+  }
+
+  .slider-about .welcome-description {
+    width: 50%;
+    margin: auto;
+  }
+
+  .logo-description figure {
+    width: 50%;
+    margin: auto;
+  }
+
+  .program .section-subtitle {
+    font-size: 1.2rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .program i {
+    font-size: 1.5rem;
+  }
+
+  .program-block-parent {
+    margin: 2px;
+  }
+
+  /* speakers section */
+  .section-speakers-heading {
+    text-align: center;
+  }
+
+  .line {
+    display: flex;
+    justify-content: center;
+    width: 10%;
+  }
+
+  .speaker-image {
+    width: 128px;
+    height: 128px;
+    margin-block: 0;
+  }
+
+  .speaker-history {
+    margin: 0;
+    width: 95%;
+  }
+
+  .featured-speakers {
+    display: grid;
+    width: 85%;
+    grid-template-columns: 0.5fr 0.5fr;
+  }
+
+  .f-speakers {
+    width: 85%;
+    grid-template-columns: 0.5fr 0.5fr;
+  }
+
+  .row-speaker {
+    display: flex;
+    flex-direction: column;
+    background-color: #444242;
+  }
+
+  .take {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .welcome-description {
+    background-color: #f7f7f7;
+    border: 2px solid #fff;
+    margin-left: 350px;
+    margin-right: 300px;
+  }
+
+  .featured {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-family: "Cocogoose", sans-serif;
+    font-size: 400;
+    margin-left: 300px;
+  }
+
+  .online {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-left: -30px;
+  }
+
+  hr {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .our-partners {
+    background-color: #444242;
+    display: grid;
+    flex-direction: column;
+    height: 300px;
+    width: 100%;
+    margin-top: -0px;
+  }
+
+  .camp {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 200px;
+    width: 700px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+  }
+
+  .previous {
+    margin-left: -13px;
+  }
+
+  .camp-1 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+
+  .elliot {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 200px;
+    width: 700px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+  }
+
+  .roger {
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    width: 700px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+  }
+
+  .nick {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 200px;
+    width: 700px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+  }
+
+  .racheal {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 200px;
+    width: 700px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+  }
+
+  .phillip {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 200px;
+    width: 700px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+  }
+
+  .partners {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: auto;
+    width: auto;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: -60px;
+    padding-top: -40px;
+  }
+
+  .partners-heading {
+    padding-top: 3%;
+    margin-bottom: 1%;
+  }
+
+  .partners-flex {
+    margin-top: 4%;
+    width: 75%;
+  }
+
+  .partners-item {
+    margin-bottom: 3%;
+  }
+
+  .year {
+    color: #cec6c6;
+    margin-top: 34px;
+  }
+
+  .partner-1 {
+    color: #cec6c6;
+    margin-top: -4px;
+    margin-left: 340px;
+  }
+}
