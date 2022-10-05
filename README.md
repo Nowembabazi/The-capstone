@@ -1,56 +1,48 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+#The Capstone.
 
-# Project Name
+screenshoots
+C:\Users\ROGER\Desktop\NICK\capstone\Capstone\Mobileversion about page 2.png
+C:\Users\ROGER\Desktop\NICK\capstone\Capstone\Desktop homepage.png
+
+
+[link] https://www.loom.com/share/5f79a3715f8d48299536b1f816162458
 
 > Description the project.
+-add html tags to my page.
+-used javascript
+-useed bootstrap.
+-Created a MIT.md file.
+-applied a background.
+-applied icons to my page.
+-styled using css style.
+-Applied linters to my project.
+-created a .gitingnore file.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- html
+- css
+-JavaScript
+-Bootstrap
+- Markdown
 
 ## Getting Started
 
+##live demo
+https://nowembabazi.github.io/Capstone/
+
 **This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- To clone to local machine; git clone https://github.com/Nowembabazi/Capstone.git
 
+- run live server
 
-To get a local copy up and running follow these simple example steps.
+👤 Nowembabazi Nickson
 
-### Prerequisites
+- GitHub: [@githubhandle](https://github.com/Nowembabazi)
+- Twitter: [@twitterhandle](https://twitter.com/NowembabaziN)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nowembabazi-nickson-181077247/)
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -63,6 +55,8 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+[link]https://www.behance.net/gallery/29845175/CC-Global-Summit-2015
+-Cindy Shin on Behance for her UI design template.
 
 - Hat tip to anyone whose code was used
 - Inspiration
@@ -70,6 +64,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is doesnot need a license.
